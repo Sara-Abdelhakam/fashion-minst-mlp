@@ -30,4 +30,4 @@ https://github.com/zalandoresearch/fashion-mnist
 Run all cells in Google Colab.
 
 ## Author
-Sara Abdelhakam
+Sara Abdelhakam 
