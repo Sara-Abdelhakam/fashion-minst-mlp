@@ -23,8 +23,8 @@ https://github.com/zalandoresearch/fashion-mnist
 ## Results
 | Experiment | Accuracy |
 |-----------|----------|
-| ReLU | 88.47% |
-| Sigmoid | 87.17% |
+| ReLU | 88.49% |
+| Sigmoid | 87.33% |
 
 ## How to Run
 Run all cells in Google Colab.
